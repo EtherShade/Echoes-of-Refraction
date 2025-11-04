@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ERA</name>
+      <longname>Echoes of Refraction alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Resonant Crystal</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Crystal</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Resonant Crystal is green.
+Singular (You can’t control more than one of this permanent at a time.)
+{T}: Add {G}. Activate only if you control three or more Crystals.</text>
+    </card>
+    <card>
+      <name>The Vile Altar</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Structure</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The Vile Altar is red.
+Singular (You can’t control more than one of this permanent at a time.)
+The Vile Altar can’t be destroyed.
+{T}, Sacrifice a character or creature: Add RR.</text>
+    </card>
+    <card>
+      <name>Protect</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Protect 1.</text>
+    </card>
+    <card>
+      <name>Containment Crystal</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Crystal</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Singular (You can’t control more than one of this permanent at a time.)
+Containment Crystal is all colors among cards voided with it.
+When Containment Crystal, void a card from your hand.
+{T}: Add one light of any color among cards voided with Containment Crystal.
+{3}, {T}: Put a card voided with Containment Crystal into your hand.</text>
+    </card>
+    <card>
+      <name>Compass</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Trinket</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Compass is blue.
+{T}, Sacrifice Compass: Look at the top card of your deck. You may put it on the bottom. Draw a card at the start of the next beginning phase.</text>
+    </card>
+    <card>
+      <name>Bloodstained Compass</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Trinket</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Bloodstained Compass is red.
+When Bloodstained Compass enters, look at the top card of your deck. You may put it on the bottom.
+Whenever a player loses life, you may sacrifice Bloodstained Compass. When you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Tinkertrap</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+Counter target activated or triggered ability.</text>
+    </card>
+    <card>
+      <name>Blue Negation</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+You may discard two blue cards rather than pay this card’s light cost.
+Counter target card stack object.</text>
+    </card>
+    <card>
+      <name>Red Negation</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+You may discard two red cards rather than pay this card’s light cost.
+Counter target card stack object.</text>
+    </card>
+    <card>
+      <name>Green Negation</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+You may discard two green cards rather than pay this card’s light cost.
+Counter target card stack object.</text>
+    </card>
+    <card>
+      <name>Blood Crystal</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Crystal</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Blood Crystal is red.
+Singular (You can’t control more than one of this permanent at a time.)
+{T}: Add {R}. Activate only if you control a Vampire.</text>
+    </card>
+    <card>
+      <name>Silver Ingot</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Permanent - Item - Ingot Silver</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Tap two other permanents you control: Protect 1.</text>
+    </card>
+    <card>
+      <name>Fiddletrap</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+As an additional cost to play this card, discard a card.
+Counter target activated or triggered ability.</text>
+    </card>
+    <card>
+      <name>Silver Bauble</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Trinket Silver</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Silver Bauble is blue.
+{T}, Tap another Silver or Trinket you control, sacrifice Silver Bauble: Draw a card.</text>
+    </card>
+    <card>
+      <name>Silvereye Feline</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Permanent - Creature - Feline</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a Silver: Put Silvereye Feline from your discard pile into play.
+{T}, Void two cards from your discard pile, Sacrifice Silvereye Feline: Protect 1.</text>
+    </card>
+    <card>
+      <name>Blue Flare</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+You may sacrifice a blue permanent rather than pay this card’s light cost.
+Counter target card stack object.</text>
+    </card>
+    <card>
+      <name>Red Flare</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+You may sacrifice a red permanent rather than pay this card’s light cost.
+Counter target card stack object.</text>
+    </card>
+    <card>
+      <name>Green Flare</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+You may sacrifice a green permanent rather than pay this card’s light cost.
+Counter target card stack object.</text>
+    </card>
+    <card>
+      <name>Vampiric Scion</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Permanent - Character - Vampire</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a player loses life, you may sacrifice Vampiric Scion. When you do, draw a card.
+When Vampiric Scion dies, create a Prism token.</text>
+    </card>
+    <card>
+      <name>Ruin</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>4</manacost>
+        <cost>4</cost>
+        <mana>4</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Destroy target permanent.</text>
+    </card>
+    <card>
+      <name>Slay</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Destroy target character or creature.</text>
+    </card>
+    <card>
+      <name>Wreck</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Destroy target item or structure.</text>
+    </card>
+    <card>
+      <name>Vile Lightfolkling</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Character - Lightfolk</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vile Lightfolkling is red.
+When Vile Lightfolkling dies, add {C}.</text>
+    </card>
+    <card>
+      <name>Origin of Reaction</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2UU</manacost>
+        <cost>2UU</cost>
+        <mana>2UU</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Location - Origin</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If Origin of Reaction is in your opening hand, you may start the game with it in your play zone.
+You may play cards as though they had reactive. (May be played or activated anytime you have priority.)</text>
+    </card>
+    <card>
+      <name>Origin of Rulership</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2RR</manacost>
+        <cost>2RR</cost>
+        <mana>2RR</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Location - Origin</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If Origin of Rulership is in your opening hand, you may start the game with it in your play zone.
+Permanents have singular. (You can’t control more than one of this permanent at a time.)</text>
+    </card>
+    <card>
+      <name>Origin of Wilderness</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Location - Origin</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If Origin of Wilderness is in your opening hand, you may start the game with it in your play zone.
+As Origin of Wilderness enters, choose a creature flavor type.
+Creature cards you own are the chosen type in addition to their other types. </text>
+    </card>
+    <card>
+      <name>Origin of Personality</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Location - Origin</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If Origin of Personality is in your opening hand, you may start the game with it in your play zone.
+As Origin of Personality enters, choose a character flavor type.
+Character cards you own are the chosen type in addition to their other types. </text>
+    </card>
+    <card>
+      <name>Origin of Civilisation</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Location - Origin</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If Origin of Civilisation is in your opening hand, you may start the game with it in your play zone.
+As Origin of Civilisation enters, choose a structure flavor type.
+Structure cards you own are the chosen type in addition to their other types. </text>
+    </card>
+    <card>
+      <name>Origin of Crafts</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Location - Origin</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If Origin of Crafts is in your opening hand, you may start the game with it in your play zone.
+As Origin of Crafts enters, choose an item flavor type.
+Item cards you own are the chosen type in addition to their other types. </text>
+    </card>
+    <card>
+      <name>Originate</name>
+      <set rarity="rare">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As an additional cost to play this card, sacrifice a location.
+Search your deck for a card, reveal it, set it aside, then shuffle your deck. If its light value is less than that of the sacrificed location, put it into your play zone. Otherwise, put it into your hand. </text>
+    </card>
+    <card>
+      <name>Silver Crystal</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Crystal Silver</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Silver Crystal is blue.
+Singular (You can’t control more than one of this permanent at a time.)
+{T}: Add {U}. Activate only if you control three or more Silvers.</text>
+    </card>
+    <card>
+      <name>Pocket Mirror</name>
+      <set rarity="uncommon">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Trinket</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Items you control are unaffected by singular. (You can’t control more than one of this permanent at a time.)</text>
+    </card>
+    <card>
+      <name>The Few</name>
+      <set rarity="uncommon">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2UU</manacost>
+        <cost>2UU</cost>
+        <mana>2UU</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Character - Incarnation</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+You may void a blue card from your hand rather than pay The Few’s light cost. If you do, sacrifice it when it enters.
+When The Few enters, counter target stack object unless its controller pays {2}.
+{T}, Sacrifice The Few: Protect 1.</text>
+    </card>
+    <card>
+      <name>The One</name>
+      <set rarity="uncommon">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2RR</manacost>
+        <cost>2RR</cost>
+        <mana>2RR</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Character - Incarnation</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may void a red card from your hand rather than pay The One’s light cost. If you do, sacrifice it when it enters.
+When The One enters, look at target opponent’s hand. Choose a card from it. They discard that card.
+{T}, Sacrifice The One: Protect 1.</text>
+    </card>
+    <card>
+      <name>The Many</name>
+      <set rarity="uncommon">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Permanent - Character - Incarnation</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may void a green card from your hand rather than pay The Many’s light cost. If you do, sacrifice it when it enters.
+When The Many enters, destroy target permanent. Its controller draws a card.
+{T}, Sacrifice The Many: Protect 1.</text>
+    </card>
+    <card>
+      <name>Friendly Refresh</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player shuffles their hand, discard pile, and any number of cards from their void into their deck, then draws four cards.</text>
+    </card>
+    <card>
+      <name>Blue Profiteering</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may void any number of blue cards from your discard pile as you play this card. Each card voided this way pays for {1}.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Red Profiteering</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may void any number of red cards from your discard pile as you play this card. Each card voided this way pays for {1}.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Green Profiteering</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may void any number of green cards from your discard pile as you play this card. Each card voided this way pays for {1}.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Modular Crystal</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Permanent - Item - Crystal</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Singular (You can’t control more than one of this permanent at a time.)
+Modular Crystal is all colors named with it.
+When Modular Crystal enters, name a color.
+{T}, Discard a card: Add one light of any color named with Modular Crystal.</text>
+    </card>
+    <card>
+      <name>Silver Shield</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Permanent - Item - Silver</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Tap another permanent you control: Protect 1.</text>
+    </card>
+    <card>
+      <name>Silver Crucible</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Permanent - Structure</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Untap target Silver.</text>
+    </card>
+    <card>
+      <name>Argent Scion</name>
+      <set rarity="common">ERA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Permanent - Character Item - Silver</type>
+        <maintype>Permanent</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Tap an untapped Silver you control: Add {C}.
+When Argent Scion dies, draw a card.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Prism [Token]</name>
+      <set>ERA</set>
+      <prop>
+        <colors></colors>
+        <type>Permanent - Item</type>
+        <maintype>Permanent</maintype>
+        <notes>!token
+!related Vampiric Scion</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this token: Add one light of any color.</text>
+      <token>1</token>
+      <reverse-related>Vampiric Scion</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
